@@ -1,6 +1,157 @@
 {
     "home page": [{},{},{}],
-	"product_det": {"ring":[], "earring": []},
+	"product_det": [
+		{
+		  "id": 1,
+		  "title": "Cinderella Crown Diamond Ring",
+		  "price": "₹22,386",
+		  "type": "ring",
+		  "description": "Set in 14 KT Yellow Gold(1.940 g) with diamonds (0.122 ct ,IJ-SI)",
+		  "rate": "2",
+		  "img": [
+			"https://cdn.catalog.com/media/catalog/product/J/R/JR08852-1YP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08852-1YP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08852-1YP900_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08852-1YP900_6_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08852-1YP900_16_video.mp4"
+		  ]
+		},
+		{
+		  "id": 2,
+		  "title": "Snake Spring Diamond Cocktail Ring",
+		  "price": "₹29,044", 
+		  "type":"ring",
+		  "description": "Set in 14 KT Yellow Gold(1.940 g) with diamonds (0.122 ct ,IJ-SI)",
+		  "rate": "3",
+		  "img": [
+			"https://cdn.catalog.com/media/catalog/product/J/R/JR08852-1YP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08992-1YP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08992-1YP900_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08992-1YP900_6_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08992-1YP900_16_video.mp4"
+		  ]
+		},
+		{
+		  "id": 3,
+		  "title": "Tinashe Spiral Diamond Ring",
+		  "price": "₹24,307",
+		  "type": "ring",
+		  "description": "Set in 14 KT Yellow Gold(2.300 g) with diamonds (0.127 ct ,IJ-SI)",
+		  "rate": "3",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08628-1YP9RS_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08628-1YP9RS_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08628-1YP9RS_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08628-1YP9RS_6_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08628-1YP9RS_16_video.mp4"
+		  ]
+		},
+		{
+		  "id": 4,
+		  "title": "Blush Miracle Plate Diamond Ring",
+		  "price": "₹29,982",
+		  "type": "ring",
+		  "description": "The Blush Miracle Plate Diamond Ring by CaratLane is a stunning piece of jewellery crafted with 14kt rose gold and exquisite diamonds. The diamonds are set in a miracle setting, creating a dazzling display of sparkle and shine. The ring features a fancy floral setting, adding a touch of elegance and sophistication to the overall design. The rose gold color of the band gives it a beautiful blush hue, making it a perfect gift for someone special. With its exceptional quality and craftsmanship, this ring is sure to become a treasured addition to any jewellery collection",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR06005-1RP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR06005-1RP900_16_video.mp4",
+			"hhttps://cdn.caratlane.com/media/catalog/product/J/R/JR06005-1RP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05985-1RP600_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05985-1RP600_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 5,
+		  "title": "Chevron Diamond Ring",
+		  "price": "₹8,834",
+		  "type": "ring",
+		  "description": "Set in 14 KT Yellow Gold(2.890 g) with diamonds (0.076 ct ,IJ-SI)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08389-1YP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08389-1YP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08389-1YP900_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/R/UR01488-1Y00RS_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/R/UR01492-1R0000_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 6,
+		  "title": "Cinderella Crown Diamond Ring",
+		  "price": "₹11,921",
+		  "type": "ring",
+		  "description": "Set in 14 KT Yellow Gold(1.940 g) with diamonds (0.122 ct ,IJ-SI)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08509-1YP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08509-1YP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08509-1YP900_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/R/UR01624-1Y00A0_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08963-1YP900_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 7,
+		  "title": "Trio Overlap Diamond Band",
+		  "price": "₹₹72,503",
+		  "type": "ring",
+		  "description": "Set in 18 KT White & Rose Gold(4.240 g) with diamonds (0.429 ct ,GH-SI)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08967-1YP9RS_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08967-1YP9RS_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08967-1YP9RS_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08964-1YP900_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08966-1YP900_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 8,
+		  "title": "Starlight Quartet Platinum Band",
+		  "price": "₹45,045",
+		  "type": "ring",
+		  "description": "Set in Platinum 950, 18 KT Platinum & Rose Platinum(5.270 g) with diamonds (0.100 ct ,GH-SI)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08354-PRP600_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08354-PRP600_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08354-PRP600_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR08357-PRP900_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/R/UR00765-PR0000_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 9,
+		  "title": "Stephany Platinum Band for Her",
+		  "price": "₹29,982",
+		  "type": "ring",
+		  "description": "Set in Platinum 950, 18 KT Platinum & Rose Platinum(4.490 g)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR05767-1YP600_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR05767-1YP600_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR05767-1YP600_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04658-YGP900_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00384-YGP900_11_listfront.jpg"
+		  ]
+		},
+		{
+		  "id": 10,
+		  "title": "SUNSHINE Diamond Band",
+		  "price": "₹8,506",
+		  "type":"ring",
+		  "description":"Set in 14 KT Yellow Gold(0.880 g) with diamonds (0.012 ct ,IJ-SI)",
+		  "rate": "5",
+		  "img": [
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08414-1YP900_1_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08414-1YP900_3_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/J/R/JR08414-1YP900_4_lar.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/R/UR01265-1Y00P0_11_listfront.jpg",
+			"https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR07903-1YP900_11_listfront.jpg"
+		  ]
+		}
+	  ],
 	"cart": [{},{}],
 	"user det": [{}, {}, {}]
 }
