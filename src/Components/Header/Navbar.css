@@ -1,0 +1,111 @@
+.space-24{
+    height: 24px
+}
+
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 100px;
+    color: #4f3267;
+    font-family: InterMedium, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    border-bottom: 1px solid rgb(214, 214, 214);
+}
+
+.navLinks{
+    width: 657px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: #74449b;
+
+}
+
+.navLinks a{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    transition: border 0.2s ease-in-out;
+}
+
+.navLinks a:hover{
+    border-bottom: 3px solid #8253f9;
+    color: #8253f9;
+
+}
+
+.navContent{
+    width: 285px;
+    height: 100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.storeDet{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+ 
+.navContent .flag-icon{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navContent .icons{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+.navContent .storeDet .flag-icon .icons{
+    transition: border 0.2s ease-in-out;
+}
+
+.navContent .storeDet:hover, .flag-icon:hover, .icons:hover{
+    border-bottom: 3px solid #8253f9;
+}
+
+.profile-dropdown{
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+    top: 124px;
+    right: 50px;
+    padding: 16px 32px;
+    /* height: 126px; */
+}
+
+.user-icon:hover + .profile-dropdown{
+    display: block;
+}
+
+.signup-btn{
+    background: linear-gradient(to right, #D759E7 , #8253f9);
+    border-radius: 5px;
+    height: 36px;
+    width: 100px;
+    color: white;
+    padding: 3px;
+    margin-right: 10px;
+    
+}
+
+.login-btn{
+    /* background-color: linear-gradient(to right, #D759E7 , #8253f9); */
+    border-radius: 5px;
+    border: 1.5px solid #D759E7;
+    height: 36px;
+    width: 100px;
+    color: Black;
+    padding: 3px;
+}
