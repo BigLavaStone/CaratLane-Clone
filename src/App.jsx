@@ -1,9 +1,12 @@
-import { useState } from 'react'
-// import './App.css'
+import AllRoutes from "./Components/AllRoutes";
 
 function App() {
-
-  return(<h1>Hello</h1>)
+  return (
+    <>
+        <AllRoutes />
+    </>
+  );
 }
 
-export default App
+
+export default App;
